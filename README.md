@@ -1,2 +1,1 @@
-# retail-sales-insights
-Retail sales analysis project: Excel + SQL + statistical tests
+# Retail Sales Insights
